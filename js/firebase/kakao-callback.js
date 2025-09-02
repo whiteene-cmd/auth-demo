@@ -9,7 +9,7 @@ if (code) {
       grant_type: "a04f96d384e78d29d3a5815f5b2a08ca",
       client_id: "0ddfc0aad1c87cd6862ee04788652e24",
       /* redirect_uri: "https://whiteene-cmd.github.io/auth-demo/kakao-callback.html", */
-      redirect_uri: "http://127.0.0.1:5500/kakao-callback.html",
+      redirect_uri: "https://github.com/whiteene-cmd/auth-demo/kakao-callback.html",
 
       code: code,
     }),
